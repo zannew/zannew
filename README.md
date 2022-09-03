@@ -2,13 +2,13 @@
 - working as a Java back-end developer.
 
 ### ⛳️ Skills
-- [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
-- [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]()
-- [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]()
-- [![Amazon_AWS Badge](https://img.shields.io/badge/Amazon+AWS-232F3E?logo=Amazon+AWS&logoColor=white)]()
+[![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]()
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)]()
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]()
+[![Amazon_AWS Badge](https://img.shields.io/badge/Amazon+AWS-232F3E?logo=Amazon+AWS&logoColor=white)]()
 
 ### 😇 Interested-in
-- OOP
+- Object-Oriented Programming
 - Domain Driven Design
 - Test Driven Development
 - Architecture
